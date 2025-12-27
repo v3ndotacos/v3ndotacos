@@ -1,4 +1,4 @@
-## repository for my *introduction* (<span style= "color:red">__not yours__...</span> xd)   
+## repository for my *introduction* (__not yours__... xd)   
 
 1. why are u reading this
 2. ??? stop

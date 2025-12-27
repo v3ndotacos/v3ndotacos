@@ -9,7 +9,7 @@ char i='i';
 printf("hi%c%c%c%c%c", i, i, i, i, i);
 ```
 
-> "uninsteresting quote everyone puts in their bio or smth"
+> "uninteresting quote everyone puts in their bio or smth"
 > by me
 
 uhhh nothing else to say. Nice to meet you.

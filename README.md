@@ -1,4 +1,20 @@
-## Hi there 👋
+## repository for my *introduction* (<span style= "color:red">__not yours__...</span> xd)   
+
+1. why are u reading this
+2. ??? stop
+3. aight
+
+```c
+char i='i';
+printf("hi%c%c%c%c%c", i, i, i, i, i);
+```
+
+> "uninsteresting quote everyone puts in their bio or smth"
+> by me
+
+uhhh nothing else to say. Nice to meet you.
+
+
 
 <!--
 **v3ndotacos/v3ndotacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

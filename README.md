@@ -4,11 +4,6 @@
 2. ??? stop
 3. aight
 
-```c
-char i='i';
-printf("hi%c%c%c%c%c", i, i, i, i, i);
-```
-
 > "uninteresting quote everyone puts in their bio or smth"
 > by me
 

@@ -7,6 +7,5 @@
 > "uninteresting quote everyone puts in their bio or smth"
 > by me
 
-uhhh nothing else to say. Nice to meet you. (play limbus company btw)
 
 
